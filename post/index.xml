@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ashwoods</title>
-    <link>http://ashwooods.cc/post/</link>
+    <link>http://ashwoods.cc/post/</link>
     <description>Recent content in Posts on Ashwoods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 30 Mar 2018 16:31:28 +0800</lastBuildDate>
     
-	<atom:link href="http://ashwooods.cc/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ashwoods.cc/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>博客迁移至Github</title>
-      <link>http://ashwooods.cc/post/myfirstpaper/</link>
+      <link>http://ashwoods.cc/post/myfirstpaper/</link>
       <pubDate>Fri, 30 Mar 2018 16:31:28 +0800</pubDate>
       
-      <guid>http://ashwooods.cc/post/myfirstpaper/</guid>
+      <guid>http://ashwoods.cc/post/myfirstpaper/</guid>
       <description>博客停摆许久，之前的空间虽然还在，但是不准备继续使用了
 准备新建博客，也不想再折腾空间/cdn等麻烦的东西了，但是也不想用国内托管的博客
 so启用了github，这样空间就稳定下来了，除非github被墙&amp;hellip; 域名的话还是再用之前的ashwoods.cc，之后应该也会继续用下去（便宜&amp;hellip;22网一年才18）

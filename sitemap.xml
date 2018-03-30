@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ashwooods.cc/post/myfirstpaper/</loc>
+    <loc>http://ashwoods.cc/post/myfirstpaper/</loc>
     <lastmod>2018-03-30T16:31:28+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ashwooods.cc/</loc>
-    <lastmod>2018-03-30T16:31:28+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ashwooods.cc/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ashwooods.cc/post/</loc>
+    <loc>http://ashwoods.cc/</loc>
     <lastmod>2018-03-30T16:31:28+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ashwooods.cc/tags/</loc>
+    <loc>http://ashwoods.cc/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ashwoods.cc/post/</loc>
+    <lastmod>2018-03-30T16:31:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ashwoods.cc/tags/</loc>
     <priority>0</priority>
   </url>
   

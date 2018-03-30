@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ashwoods</title>
-    <link>http://ashwooods.cc/tags/</link>
+    <link>http://ashwoods.cc/tags/</link>
     <description>Recent content in Tags on Ashwoods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="http://ashwooods.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ashwoods.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
