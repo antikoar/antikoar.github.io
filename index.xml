@@ -6,23 +6,9 @@
     <description>Recent content on Ashwoods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 30 Mar 2018 16:31:28 +0800</lastBuildDate>
     
 	<atom:link href="http://ashwoods.cc/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>博客迁移至Github</title>
-      <link>http://ashwoods.cc/post/myfirstpaper/</link>
-      <pubDate>Fri, 30 Mar 2018 16:31:28 +0800</pubDate>
-      
-      <guid>http://ashwoods.cc/post/myfirstpaper/</guid>
-      <description>博客停摆许久，之前的空间虽然还在，但是不准备继续使用了
-准备新建博客，也不想再折腾空间/cdn等麻烦的东西了，但是也不想用国内托管的博客
-so启用了github，这样空间就稳定下来了，除非github被墙&amp;hellip; 域名的话还是再用之前的ashwoods.cc，之后应该也会继续用下去（便宜&amp;hellip;22网一年才18）
-博客系统现在是静态的hugo，也方便很多了，不在折腾了（可能还是会折腾&amp;hellip;)
-总之这就是新生的一天（和测试的post）</description>
-    </item>
     
   </channel>
 </rss>
