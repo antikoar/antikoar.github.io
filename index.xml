@@ -6,9 +6,22 @@
     <description>Recent content on Ashwoods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Tue, 03 Apr 2018 20:55:25 +0800</lastBuildDate>
     
 	<atom:link href="http://ashwoods.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关闭Chrome中的software_reporter_tool</title>
+      <link>http://ashwoods.cc/post/swre/</link>
+      <pubDate>Tue, 03 Apr 2018 20:55:25 +0800</pubDate>
+      
+      <guid>http://ashwoods.cc/post/swre/</guid>
+      <description>Chrome现在的版本每次开启时都会突然大幅度占用硬盘，之前只用任务管理器一直没查到罪魁祸首。
+最近使用卡巴斯基时发现是一个叫software_reporter_tool的进程搞得鬼。
+google之后发现software_reporter_tool是谷歌的一个工具，用来扫描用户电脑中可能造成Chrome运行出现问题的软件，并上传相关信息到Google。
+至于如何关闭这个，google的结果发现了很多办法，我是直接删除然后用空文件替代，测试后不会出现问题。</description>
+    </item>
     
   </channel>
 </rss>
